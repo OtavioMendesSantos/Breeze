@@ -2968,11 +2968,6 @@ expo-constants@~16.0.0:
     "@expo/config" "~9.0.0"
     "@expo/env" "~0.3.0"
 
-expo-dotenv@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/expo-dotenv/-/expo-dotenv-0.1.0.tgz#d9a46309a1dbe7907ee9782fea824bb3f4206f60"
-  integrity sha512-12l/ggewrLBGUBfaTXd7hzuAE1cLUM/TxBUpofdIGKzr8qb1D399n60AbXN5Chw7C/F/Uzgk6NP5Jg2yTu1O9A==
-
 expo-file-system@~17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-17.0.1.tgz#b9f8af8c1c06ec71d96fd7a0d2567fa9e1c88f15"
