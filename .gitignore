@@ -7,8 +7,10 @@ node_modules/
 .expo/
 dist/
 web-build/
+expo-env.d.ts
 
 # Native
+.kotlin/
 *.orig.*
 *.jks
 *.p8
@@ -23,7 +25,6 @@ web-build/
 npm-debug.*
 yarn-debug.*
 yarn-error.*
-%ProgramData%
 
 # macOS
 .DS_Store
@@ -31,7 +32,6 @@ yarn-error.*
 
 # local env files
 .env*.local
-.env
 
 # typescript
 *.tsbuildinfo
